@@ -80,7 +80,7 @@ Then you can run all the others and see the graphs.
 Using the menu you can confirm or delete a goal, and all the graphs will be updated.
 
 <table><tr>
-    <td> <img src="./Rviz.png" alt="Drawing" style="width: 200px;"/> </td>
+    <td> <img src="./Goal.jpeg" alt="Drawing" style="width: 500px;"/> </td>
 </tr>
 <tr>
     <td>Menu window</td>
@@ -90,7 +90,7 @@ Using the menu you can confirm or delete a goal, and all the graphs will be upda
 The graphs shown represent the trajectory or the right and the number of reached/deleted goals om the left.
 
 <table><tr>
-    <td> <img src="./Rviz.png" alt="Drawing" style="width: 200px;"/> </td>
+    <td> <img src="./Graphs.jpeg" alt="Drawing" style="width: 600px;"/> </td>
 </tr>
 <tr>
     <td>Graphs</td>
@@ -100,7 +100,7 @@ The graphs shown represent the trajectory or the right and the number of reached
 Under the graphs, three text boxes are shown for the distance from the closest obstacles, and the actual x-y coordinates of the robot.
 
 <table><tr>
-    <td> <img src="./Rviz.png" alt="Drawing" style="width: 200px;"/> </td>
+    <td> <img src="./Pos_obs.jpeg" alt="Drawing" style="width: 500px;"/> </td>
 </tr>
 <tr>
     <td>Distance from the obstacles, x-y coordinates</td>
